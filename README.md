@@ -1,6 +1,4 @@
-Computer Graphics (CS4300)
-Assignment 5
-Fall 2012
+# Computer Graphics (CS4300) Assignment 5 - Fall 2012
 
 To render a 3D wireframe or 3D flat shaded, as opposed to a 2D triangles, switch the rendering mode with the dropdown at the top of the page.
 
